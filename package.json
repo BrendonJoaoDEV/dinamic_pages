@@ -1,0 +1,24 @@
+{
+  "name": "dinamic-pages",
+  "version": "1.0.0",
+  "description": "Módulos JavaScript para carregamento de HTML de forma dinâmica.",
+  "main": "index.js",
+  "module": "",
+  "types": "",
+  "files": [],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendonJoaoDEV/dinamic_pages.git"
+  },
+"keywords": ["javascript", "javascript libs", "oop"],
+  "author": "Brendon J. C. Neves",
+  "license": "CC BY-NC-ND 4.0",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/BrendonJoaoDEV/dinamic_pages/issues"
+  },
+  "homepage": "https://github.com/BrendonJoaoDEV/dinamic_pages#readme"
+}
